@@ -1,21 +1,21 @@
-## Junior DevOps & Python
+# Junior DevOps & Python
 
-Focused on automation, reliability, and cloud fundamentals.
+## Automation, reliability, and cloud infrastructure.
 
-Currently building portfolio projects in:
-- Python
-- Linux & Bash
-- Git & GitHub workflows
-- Containerisation & Docker
+## Projects
 
-Background: 7+ years supporting live systems, safe releases, and production reliability.
+- Stratum (In Progress) — Production cloud platform on AWS. Terraform, Kubernetes, CI/CD, monitoring. Phase 2: AWS infrastructure provisioning.
 
-Currently focused on building CI/CD pipelines and containerised applications.
+- Pipely — Python CI/CD pipeline runner with YAML workflows and parallel execution.
 
-### Coming Soon
-- Python automation tools
-- CI/CD pipeline templates
-- Dockerised sample applications
+- Sentinel — Self-healing monitoring platform using Docker and automated recovery.
 
-🔗 Contact via LinkedIn
+## Background
 
+7+ years supporting live systems and production reliability. Now learning DevOps through real projects.
+
+## Skills
+
+Core: Python • Linux • Bash • Git • Docker • CI/CD
+
+In Progress: Terraform • Kubernetes • AWS • Monitoring • Ansible
