@@ -12,7 +12,7 @@
 
 ## Background
 
-7+ years supporting live systems and production reliability. Now learning DevOps through real projects.
+7+ years keeping live systems running taught me how developers, ops, and infrastructure fit together — and convinced me to move to the engineering side.
 
 ## Skills
 
