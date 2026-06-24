@@ -4,7 +4,7 @@
 
 ## Projects
 
-- Stratum (In Progress) — Production cloud platform on AWS. Terraform, Kubernetes, CI/CD, monitoring. Phase 2: AWS infrastructure provisioning.
+- Stratum (pending final phase polishing) — Live production-style cloud platform on AWS. Phase 2 complete: Terraform infrastructure-as-code (VPC, ECS Fargate, ALB, IAM), FastAPI service deployed and running, Docker containerization with ECR registry.
 
 - Pipely — Python CI/CD pipeline runner with YAML workflows and parallel execution.
 
