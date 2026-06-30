@@ -18,6 +18,4 @@
 
 ## Skills
 
-Core: Python • Linux • Bash • Git • Docker • CI/CD
-
-In Progress: Terraform • Kubernetes • AWS • Monitoring • Ansible
+Linux/Bash • Docker • CI/CD • Git/GitHub • Kubernetes • AWS • Python
