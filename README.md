@@ -10,7 +10,7 @@
 
 - Pipely — Python CI/CD pipeline runner with YAML workflows and parallel execution.
 
-- Stratum (Flagship) (pending final phase polishing) — Live production-style cloud platform on AWS. Terraform infrastructure-as-code (VPC, ECS Fargate, ALB, IAM), FastAPI service deployed and running, Docker containerization with ECR registry.
+- Stratum (Flagship) (in development) — Live production-style cloud platform on AWS. Terraform infrastructure-as-code (VPC, ECS Fargate, ALB, IAM), FastAPI service deployed and running, Docker containerization with ECR registry.
 
 ## Background
 
