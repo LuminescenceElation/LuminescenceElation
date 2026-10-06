@@ -1,6 +1,6 @@
-# Junior DevOps & Python
+# Junior DevOps / Cloud Engineer
 
-## Automation, reliability, and cloud infrastructure.
+## Linux/Bash • Git/GitHub • Docker • Kubernetes • Terraform • CI/CD • GitHub Actions • Python • AWS
 
 ## Projects
 
