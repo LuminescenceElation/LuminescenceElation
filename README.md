@@ -1,10 +1,10 @@
-# Junior DevOps / Cloud Engineer
+# Junior DevOps / Linux / SRE
 
-### Linux/Bash • Git/GitHub • Docker • Kubernetes • Terraform • CI/CD • GitHub Actions • Python • AWS
+### Shell Scripting, Python, Docker, Git, AWS
 
 ## Background
 
-7+ years keeping live systems running taught me how developers, ops, and infrastructure fit together — and convinced me to move to the engineering side.
+7+ years working in SEO, both agency + client side. Now moving into my first engineering role.
 
 ## Projects
 
