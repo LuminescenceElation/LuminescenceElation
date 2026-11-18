@@ -1,4 +1,4 @@
-# Junior DevOps / Linux / SRE / Python
+# Junior DevOps / Linux / SRE
 
 ### Shell Scripting, Python, Docker, Git, AWS
 
