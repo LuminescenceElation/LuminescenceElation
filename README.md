@@ -34,7 +34,7 @@ Issued by IBM via Coursera, newest first:
 
 ## Currently
 
-- Completing and adding further features my portfolio
+- Completing and adding further features to my portfolio
 - Deepening my skills in Docker and Linux.
 
 ## Get in touch
