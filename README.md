@@ -1,6 +1,6 @@
-# Junior DevOps
+# Leonidas John Patsalides
 
-### Linux, Shell Scripting, Python, Docker, Git, AWS
+### Junior DevOps | Linux, Shell Scripting, Python, Docker, Git, AWS
 
 ## Background
 
