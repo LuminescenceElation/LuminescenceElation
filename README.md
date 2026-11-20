@@ -21,12 +21,16 @@ A Python CI/CD pipeline runner that executes YAML-defined workflows with paralle
 
 ## Certifications
 
-- IBM — Introduction to DevOps (Nov 2025)
-- IBM — Git & GitHub (Dec 2025)
-- IBM — Linux Commands & Shell Scripting (Feb 2026)
-- IBM — Continuous Integration and Continuous Delivery (CI/CD) (Apr 2026)
-- IBM — Introduction to Containers with Docker, Kubernetes & OpenShift (Mar 2026)
-- IBM — Python Programming Fundamentals (Oct 2025)
+## Certifications
+
+Issued by IBM via Coursera, newest first:
+
+- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/account/accomplishments/verify/PK50UKKFCBFS) (Apr 2026)
+- [Introduction to Containers with Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/O714PKIM3V8Y) (Mar 2026)
+- Linux Commands & Shell Scripting (Feb 2026)
+- [Git & GitHub](https://www.coursera.org/account/accomplishments/verify/T251FCIFK6CU) (Dec 2025)
+- [Introduction to DevOps](https://www.coursera.org/account/accomplishments/verify/THBE52JVZ9Z6) (Nov 2025)
+- [Python Programming Fundamentals](https://www.coursera.org/account/accomplishments/verify/L4VL8633PGRJ) (Oct 2025)
 
 ## Currently
 
