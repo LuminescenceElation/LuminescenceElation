@@ -30,8 +30,8 @@ A Python CI/CD pipeline runner that executes YAML-defined workflows with paralle
 
 ## Currently
 
-- Building Stratum's CI/CD pipeline
-- Deepening my monitoring and reliability skills
+- Completing and adding further features my portfolio
+- Deepening my skills in Docker and Linux.
 
 ## Get in touch
 
