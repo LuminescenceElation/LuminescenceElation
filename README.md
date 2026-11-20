@@ -27,7 +27,7 @@ Issued by IBM via Coursera, newest first:
 
 - [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/account/accomplishments/verify/PK50UKKFCBFS) (Apr 2026)
 - [Introduction to Containers with Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/O714PKIM3V8Y) (Mar 2026)
-- Linux Commands & Shell Scripting (Feb 2026)
+- [Linux Commands & Shell Scripting](https://www.coursera.org/account/accomplishments/verify/O1PJJ4GEEHOZ) (Feb 2026)
 - [Git & GitHub](https://www.coursera.org/account/accomplishments/verify/T251FCIFK6CU) (Dec 2025)
 - [Introduction to DevOps](https://www.coursera.org/account/accomplishments/verify/THBE52JVZ9Z6) (Nov 2025)
 - [Python Programming Fundamentals](https://www.coursera.org/account/accomplishments/verify/L4VL8633PGRJ) (Oct 2025)
